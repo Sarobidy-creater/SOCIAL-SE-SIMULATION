@@ -1,0 +1,32 @@
+Etudiant:
+Lève-toi à 7h00
+Prendre le petit déjeuner à la maison
+Va à l'école à 8h30
+Cours de 9h00 à 12h00
+Déjeune à la cafétéria de l'école
+Cours de l'après-midi de 13h00 à 16h00
+Rentre à la maison à 16h30
+Fait ses devoirs à la maison
+Dîne en famille à la maison à 19h00
+Parle à ses camarades de classe après les cours
+Retraite:
+Se réveille à 8h00
+Prend un petit-déjeuner tranquille à la maison
+Sort pour faire une promenade au parc à 10h00
+Retourne à la maison pour le déjeuner à 12h00
+Regarde la télévision ou lit un livre l'après-midi
+Va au club de retraités à 15h00
+Retourne à la maison à 17h00
+Dîne à la maison à 19h00
+Discute avec ses amis au club de retraités
+Travailleur:
+Se lève à 6h30
+Prend son petit-déjeuner rapidement à la maison
+Part au travail à 7h30
+Travaille de 8h00 à 12h00
+Déjeune à la cantine de l'entreprise
+Travaille de 13h00 à 17h00
+Rentre chez lui à 18h00
+Fait de l'exercice ou regarde la télévision à la maison
+Dîne à la maison à 19h30
+Parle à ses collègues pendant la pause déjeuner

@@ -1,0 +1,30 @@
+Infirmier : Soins aux patients, administration de médicaments, surveillance des signes vitaux, rapports d'état, collaboration avec d'autres professionnels de la santé.
+Enseignant : Préparation des cours, enseignement en classe, correction des devoirs, réunions avec les collègues, communication avec les parents.
+Ingénieur : Conception de projets, résolution de problèmes techniques, collaboration avec une équipe, analyse des données, réunions de suivi.
+Policier : Patrouilles, application de la loi, enquêtes criminelles, rédaction de rapports, interactions avec la communauté.
+Médecin : Consultations des patients, diagnostics, ordonnances, examens médicaux, suivi des dossiers médicaux.
+Agriculteur : Soins aux cultures et aux animaux, récolte, entretien des équipements, gestion des finances, planification des cultures.
+Artisan : Création d'objets artisanaux, réparation, fabrication sur mesure, gestion des commandes, interactions avec les clients.
+Caissier : Enregistrement des achats, manipulation de l'argent, service à la clientèle, gestion des retours, tenue de la caisse.
+Chauffeur : Conduite du véhicule, respect des itinéraires, maintenance du véhicule, assistance aux passagers, respect des règles de sécurité.
+Cuisinier : Préparation des repas, gestion des stocks, nettoyage de la cuisine, création de nouveaux plats, respect des normes d'hygiène.
+Électricien : Installation électrique, réparation des pannes, lecture de plans, utilisation d'outils spécialisés, respect des normes de sécurité.
+Plombier : Installation de plomberie, réparation des fuites, maintenance des systèmes, débouchage des canalisations, estimation des coûts.
+Secrétaire : Gestion des appels et des emails, planification des rendez-vous, tenue de l'agenda, traitement des documents administratifs, accueil des visiteurs.
+Vendeur : Assistance aux clients, présentation des produits, réalisation des ventes, gestion des stocks, tenue de la surface de vente.
+Technicien : Réparation et maintenance des équipements, diagnostic des pannes, tests et mesures, installation de nouveaux équipements, documentation des interventions.
+Graphiste : Conception graphique, création de visuels, révision des maquettes, collaboration avec les clients, respect des délais.
+Architecte : Conception de plans, réunions avec les clients, gestion des projets, suivi du chantier, coordination avec les autres professionnels du bâtiment.
+Avocat : Recherche juridique, rédaction de documents légaux, représentation en audience, consultations avec les clients, négociations avec les parties adverses.
+Journaliste : Recherche d'informations, rédaction d'articles, interviews, montage des reportages, respect des deadlines.
+Facteur : Distribution du courrier, tri du courrier, gestion des colis, collecte des recommandés, respect des horaires de livraison.
+Pharmacien : Préparation des médicaments, dispensation des ordonnances, conseils aux patients, gestion des stocks, vérification des interactions médicamenteuses.
+Traducteur : Traduction de documents, révision des textes, recherche terminologique, communication avec les clients, respect des délais.
+Psychologue : Consultations individuelles, évaluations psychologiques, séances de thérapie, rédaction de rapports, formation continue.
+Ébéniste : Fabrication de meubles, restauration, finition des pièces, gestion des commandes, entretien des outils.
+Chercheur : Recherche bibliographique, expérimentations, analyse des résultats, rédaction d'articles scientifiques, présentations en conférence.
+Agent : Promotion des produits ou services, prospection de nouveaux clients, suivi des clients existants, négociations commerciales, rapports d'activité.
+Conducteur : Conduite du train, respect des horaires, gestion des passagers, maintenance du matériel roulant, communication avec le contrôle.
+Éducateur : Animation d'activités éducatives, suivi individualisé des apprenants, rédaction des rapports pédagogiques, rencontres avec les parents, formation continue.
+Menuisier : Fabrication de menuiseries, découpe et assemblage du bois, installation sur site, réparation, estimation des projets.
+Photographe : Prises de vue, retouche d'images, gestion du matériel photographique, rencontres avec les clients, promotion de son travail.
